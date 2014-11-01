@@ -1,0 +1,16 @@
+{
+  "author": "mapmeld",
+  "name": "10000-spoons",
+  "version": "0.0.1",
+  "dependencies": {
+    "google": "0.6.X",
+    "request": "2.47.X",
+    "cheerio": "0.17.X"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
