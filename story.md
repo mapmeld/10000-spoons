@@ -12,8 +12,6 @@ a fillet knife is excellent for those who need a knife to fillet their fish.
 
 the juice s2 is definitely not the lightest option that i could carry, but based on the jobs that i need a knife to perform on a regular basis it’s the most perfectly suited to the task, at least based on the knives that i own.
 
-you’ll need a knife to cut things like gels, ropes and plastic ties, so it’s a great idea to have both a regular heavy-duty utility knife as well as a versatile multi-tool.
-
 you no longer need a knife to cut apples.
 
 knives are big enough for when you really need a knife to do the job.
@@ -40,7 +38,7 @@ i don’t know about you guys, but i need a knife to eat chicken | p.
 
 zombies will die and i don't need a knife to it memes.
 
-"text":"got rid of the flip knife because of steam summer sale + i dont need a knife to play + stattrack seems useless","author":"butterfly".
+if you need a knife to do it, this book shows you how.
 
 if you need a knife to cut lines in an emergency, get the hook knife.
 
@@ -70,11 +68,81 @@ if you need a knife to gut a deer pick one that will efficiently do the job with
 
 do you need a knife to get you out of sticky situations where you must carefully cut around precious cargo.
 
+it is sharp, a great size, and i love that it has a blade protector for when i need a knife to travel to work for cutting an apple or to the kids sporting events.
+
 you need a knife to do that.
 
 do i need a knife to remove plastic cover.
 
 first, you'll need a knife to do the job.
+
+advertisement     hey,i'm into bushcraft an need a knife to accompany on my adventures lol.
+
+could never find a knife to cut, dice , slice meat or vegetables so fine, this one does all that.
+
+could never find a knife to cut, dice , slice meat or vegetables so fine, this one does all that.
+
+== someone help me find a knife to buy.
+
+boring james milner on twitter: "i couldn't find a knife to butter my crumpets this morning so i used a tea spoon instead, which worked just as well as the knife.
+
+go out and find a knife to suit your needs and make the decision yourself.
+
+" considering most jurisdictions would find a knife to be a "weapon," you can't bring it to school.
+
+difference is , with my knife , i can use it for machete duty , its why i made it actually , i stand a shade under 6'5" and weigh in at around 220 pound , and trying to find a knife to cut cane and grass that i didnt have to kneel to use wasnt easy where i was living , so i made one to fit my height.
+
+rick murchisonseptember 4th, 2007, 02:57 pmfor monofilament, and especially for steel leader, i find a knife to be less than the ideal tool.
+
+i'll find a knife to sacrifice for this purpose.
+
+cut saplings or wood half its blade length prepare spindles, bows, hearth boards, bearing blocks/hand holds, fire plow and other friction fire needs needs to hold and edge and be easily field sharpened with primitive methods it has to be light enough to not burden its owner when sheathed be handled for long periods whether during carving or wood processing tasks without causing fatigue in hands, fingers, or joints has to be able to be drawn and put away with only one hand must be chosen more times than not to go to the field/bush/wilderness must be able to get dirty, scratched, slimy, sticky, bloody, and still be drawn to cut prime rib with its next breath  if you can find a knife to do all this and do it all pretty well, then you have a fine bushcraft knife.
+
+i had been given one hour to log on and find a knife to review.
+
+with everything from hand-made horn handled carving sets by coltellerie berti to matte black, magnetic kitchen knives form stelton you will surely find a knife to fit your style and need.
+
+but lately, i was hoping to find a knife to trim whole beef tenderloins without wasting a lot of beef.
+
+if you are concerned primarily with stabbing and slashing, you would be hard pressed to find a knife to surpass the cold steel, magnum tanto ii.
+
+my latest purchase, the boker cera neck-knife:         i've been wanting to find a knife to take out while wade fishing that i could use for minor cutting duties.
+
+it took me a long time to find a knife to use on the job that was not too bulky and had pleasing lines.
+
+phillip december 15, 2013 at 3:04 am    this is a help request rather than a comment on the above article, intended towards anyone who has the knowledge/experience to help me find a knife to fit my needs: a survival/utility knife constructed with a full tang design.
+
+i am sure rmk thought with the number of models they offered and with an abundance of options available, almost anyone could find a knife to suit their needs and tastes from stock grinds.
+
+sitton greetings : i just joined this group after having joined ikc about three wees ago and was informed that i might be able to post and find a knife to my liking.
+
+we'll see if you still say that next time you stop to search your satchel and find a knife to your.
+
+, i fold boxes and put them in the recycling bin i only cut them down if they are too large to fold, i cut snack bags open neatly so that my kids don't rip and spill the contents everywhere, ferro rod because i stopped carrying a lighter when i quit smoking they work well for lighting the grill the same way your bic uses one to light it's own flame, straw holes for my kids drinks if they have bottled water or milk kids are messy, thread sure scissors or a knife whatever is close, i find a knife to be quick and easy in the garden ymmv, i have a fire pit and a pile of wood in my backyard and we like to sit around the fire as a family an roast marshmallows rather often, zip ties on new kids toys that seem to pop up so often.
+
+while it is useful when i have a lot of garlic to crush, i find a knife to be a better tool for small amount of garlic.
+
+no one on the life boat could find a knife to cut the rope.
+
+it will be difficult to find a knife to take the place of that persian.
+
+when hunting mks or pkj's, i personally find a knife to be rather useful.
+
+made from top quality stainless steel the craftsmanship is first class on this piece you will find it hard to find a knife to match this quality look in google for gentleman’s knife you won’t find a knife to match it, they are very hard to find.
+
+he'd mind meld with you and convince you that you needed to find a knife to scratch that annoying itch on your brain.
+
+my friend and radio co-host, sally nutter, told me about a time she thought she couldn’t eat a pizza because she couldn’t find a knife to cut it.
+
+each page of this app is highly immersive with tasks that kids can complete to progress the story, including: help alan's mother find a knife to cut the cake by tapping the knife.
+
+with a great range of knives to satisfy most peoples tastes, you can be assured that you will find a knife to suit you.
+
+and find a knife to cut the bagels, and making the coffee, and getting the cameras rolling, and updating your amazing kickstarter backers.
+
+even if you  wear a tucked shirt w/belt if you can find a knife to tuck iwb near the beltline comfortably, it'll "print" less than it would carried in a pocket.
+
+conclusion:  for it’s price, you are really hard up press to find a knife to out perform the moritaka 240 gyuto.
 
 see all of our paring knife reviews below   kramer paring knifeshun pro damascus forged steel blade w/ pakkawood handle     if you're the sort of chef who loves a beautiful knife but also wants a knife to use, you'll find them both in one knife when you buy the shun bob kramer pro paring knife.
 
@@ -86,6 +154,10 @@ your the one who wants a knife to attack infected that would live through multip
 
 it's good to see someone who wants a knife to use as a tool, not something to kill people with.
 
+this knife is well suited for the user who wants a knife to carry every day that can be opened with either hand.
+
+no one wants a knife to come out of the sheath - this is a very, very bad thing trust me.
+
 can hardly blame him, they want to use the slice of a knife where no boy wants a knife to go.
 
 uploaded on sep 8, 2011   this is just a knife i got from big 5 for about $10 i would not reccomend this knife for anyone who wants a knife to actually use in the field or camping or even for minor tasks.
@@ -96,11 +168,7 @@ i would definitely recommend these to anyone that wants a knife to stay sharp fo
 
 "a guy who wants a knife to go deer hunting once a year doesn't need a knife like this.
 
-she wants a knife to carry for protection since she has no firearm and i told her that a knife is better than harsh words.
-
 a person who wants a knife to function when they use it, and otherwise stay out of the way, needs to know which knives will bear up under rough treatment.
-
-can hardly blame him, they want to use the slice of a knife where no boy wants a knife to go.
 
 can hardly blame him, they want to use the slice of a knife where no boy wants a knife to go.
 

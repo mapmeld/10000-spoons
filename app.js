@@ -106,5 +106,7 @@ function theEnding() {
 
 // all you need to do to write the novel:
 addPhrase('"need a knife to"', function() {
-  addPhrase('"wants a knife to"', theEnding);
+  addPhrase('"find a knife to"', function() {
+    addPhrase('"wants a knife to"', theEnding);
+  });
 });
