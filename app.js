@@ -9,59 +9,83 @@ var search = require('google');
 var novelText = '## 10000-spoons\n\nAll you need is a knife.\n\n';
 
 search.resultsPerPage = 50;
-search('"need a knife to"', function(err, next, links) {
-  if (err) {
-    throw err;
+
+function firstPunctuationIn(txt) {
+  var punc = '.;(){}?!';
+  var min = txt.length;
+  txt += punc;
+  for(var t=0; t < punc.length; t++) {
+    min = Math.min(min, txt.indexOf(punc[t]));
   }
+  return min;
+}
 
-  var parseLink = function(i) {
-    // know when to print the ending
-    if (i >= links.length) {
-      console.log('add the ending');
-      return theEnding();
+function lastPunctuationIn(txt) {
+  var punc = '.;(){}?!';
+  var max = 0;
+  for(var t=0; t < punc.length; t++) {
+    max = Math.max(max, txt.lastIndexOf(punc[t]));
+  }
+  return max + 1;
+}
+
+function addPhrase(searchPhrase, callback) {
+  search(searchPhrase, function(err, next, links) {
+    if (err) {
+      throw err;
     }
 
-    var phraseSource = links[i].link;
-    if (!phraseSource || phraseSource === 'null') {
-      console.log('linkless link');
-      return parseLink(i + 1);
-    }
-    console.log('URL: ' + phraseSource);
+    searchPhrase = searchPhrase.replace('"', '').replace('"', '');
 
-    request({ url: phraseSource, timeout: 2000 }, function (err, response, raw) {
-      if (err) {
-        // throw err;
+    var parseLink = function(i) {
+      // know when to print the ending
+      if (i >= links.length) {
+        console.log('add the ending');
+        return callback();
       }
 
-      if(!raw || !raw.length) {
+      var phraseSource = links[i].link;
+      if (!phraseSource || phraseSource === 'null' || phraseSource.indexOf('lyric') > -1) {
+        console.log('linkless or lyric link');
         return parseLink(i + 1);
       }
+      console.log('URL: ' + phraseSource);
 
-      console.log('formatting body');
-      raw = raw.toLowerCase().replace(/\s+/g, ' ');
+      request({ url: phraseSource, timeout: 2000 }, function (err, response, raw) {
+        if (err) {
+          // throw err;
+        }
 
-      if (raw.indexOf("need a knife to") > -1) {
-        console.log('found phrase');
-        var body = $(raw).text();
+        if(!raw || !raw.length) {
+          return parseLink(i + 1);
+        }
 
-        var sentencePrior = body.substring(0, body.indexOf("need a knife to"));
-        sentencePrior = sentencePrior.substring(Math.max(sentencePrior.lastIndexOf('.'), sentencePrior.lastIndexOf('>')));
+        console.log('formatting body');
+        raw = raw.toLowerCase().replace(/\s+/g, ' ');
 
-        var sentenceAfter = body.substring(body.indexOf("need a knife to")) + '.<';
-        sentenceAfter = sentenceAfter.substring(0, Math.min(sentenceAfter.indexOf('.'), sentenceAfter.indexOf('<')));
+        if (raw.indexOf(searchPhrase) > -1) {
+          console.log('found phrase');
+          var body = $(raw).text();
 
-        var sentence = sentencePrior + sentenceAfter + '.';
-        console.log('Sentence: ' + sentence);
+          var sentencePrior = body.substring(0, body.indexOf(searchPhrase));
+          sentencePrior = sentencePrior.substring(lastPunctuationIn(sentencePrior));
 
-        novelText += sentence + "\n\n";
-      }
+          var sentenceAfter = body.substring(body.indexOf(searchPhrase));
+          sentenceAfter = sentenceAfter.substring(0, firstPunctuationIn(sentenceAfter));
 
-      parseLink(i + 1); 
-    });
-  };
+          var sentence = sentencePrior.trim() + " " + sentenceAfter.trim() + '.';
+          console.log('Sentence: ' + sentence);
 
-  parseLink(0);
-});
+          novelText += sentence + "\n\n";
+        }
+
+        parseLink(i + 1); 
+      });
+    };
+
+    parseLink(0);
+  });
+}
 
 function theEnding() {
   for(var s = 0; s < 10000; s++) {
@@ -78,3 +102,9 @@ function theEnding() {
     console.log('finished!');
   });
 }
+
+
+// all you need to do to write the novel:
+addPhrase('"need a knife to"', function() {
+  addPhrase('"wants a knife to"', theEnding);
+});
