@@ -3,9 +3,9 @@
   "name": "10000-spoons",
   "version": "0.0.1",
   "dependencies": {
-    "google": "0.6.X",
-    "request": "2.47.X",
-    "cheerio": "0.17.X"
+    "google": "~2.1.0",
+    "request": "~2.81.0",
+    "cheerio": "~0.22.0"
   },
   "engines": {
     "node": "0.10.x"
