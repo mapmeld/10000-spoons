@@ -1,5 +1,7 @@
 ## 10,000 Spoons
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/10000-spoons.svg)](https://greenkeeper.io/)
+
 A <a href="https://github.com/dariusk/NaNoGenMo-2014">NaNoGenMo-2014</a> entry.
 
 A novel put together programmatically, with the following structure:
